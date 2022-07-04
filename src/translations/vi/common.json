@@ -1,0 +1,53 @@
+{
+  "navbar": {
+    "home": "Trang Chủ",
+    "about": "Về Tôi",
+    "project": "Các Dự Án",
+    "resume": "CV của tôi"
+  },
+  "greeting": "Xin Chào!",
+  "name": "Tiến Trần",
+  "fullname": "Trần Hữu Tiến",
+  "i_am": "Tôi là",
+  "introduce": {
+    "title": "Để tôi giới thiệu một chút \n về bản thân",
+    "description_1": "Tôi yêu thích lập trình và hoặc ít nhất là học thêm những thứ mới",
+    "description_2": "Tôi có kinh nghiệm với ngôn ngữ như: ",
+    "description_3": "Mỗi khi có thể, tôi thích tạo ra sản phẩm với ",
+    "language_fe": "Javascript",
+    "language_be": "React.js, Vue.js, Node.js"
+  },
+  "contact": {
+    "title_1": "Liên hệ",
+    "title_2": "Hãy ",
+    "title_3": "kết nối",
+    "title_4": " với tôi"
+  },
+  "developed_by": "Lập trình bởi ",
+  "about_me": "Về tôi",
+  "country": "Việt Nam",
+
+  "tool": "Công cụ",
+  "tool_usage_html": "<strong>{{tool}}</strong> Tôi sử dụng",
+  "skillset": "Bộ kĩ năng",
+  "professional_html": "<strong>{{skillset}}</strong> chuyên nghiệp",
+  "description_about_me_1_html": "Xin chào mọi người, tôi là <strong>{{name}}</strong> đến từ <strong>{{country}}</strong> . \n Tôi đang làm Frondend Developer. \n",
+  "description_about_me_2_html": "Tôi muốn được học hỏi thêm và trao dồi những kiến thức về lập trình để phát triển kỹ năng chuyên môn về lập trình web, giúp sản phẩm của công ty hoàn thiện và phát triển trên thị trường công nghệ, tăng cường khả năng làm việc nhóm và phát triển kĩ năng giao tiếp",
+  "description_about_me_3": "Ngoài lập trình, một số hoạt động khác mà tôi thích làm",
+  "play_game": "Chơi Game",
+  "singing": "Ca hát",
+  "learn_about_history": "Tìm hiểu về lịch sử",
+  "quote_about_me": "Thái độ quyết định tất cả ",
+  "quote_author_about_me": "Jeff Keller",
+  "download_cv": "Tải CV",
+  "project_title_html": "<strong> Các dự án </strong> của tôi",
+  "project_subtitle": "Dưới đây là 1 vài dự án tôi đã được làm việc gần đây",
+  "technologies": "Công nghệ",
+  "responsibility": "Vai trò",
+  "foxcale_title": "Foxcale Inspector",
+  "foxcale_des": "Bằng dữ liệu trực quan, Foxcale Inspector có thể nhanh chóng và hiệu quả tìm thấy dữ liệu bằng chứng từ các tài liệu rộng lớn",
+  "chat_management_title": "Trang quản trị LINE",
+  "chat_management_des": "Hệ thống nội bộ quản lý tài khoản LINE",
+  "awoo_title": "Trang quản trị Awoo app",
+  "awoo_des": "Trang quản trị cho ứng dụng Awoo - mạng xã hội dành cho thú cưng"
+}

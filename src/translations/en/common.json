@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "project": "Projects",
+    "resume": "Resume"
+  },
+  "greeting": "Hi There!",
+  "name": "Tien Tran",
+  "fullname": "Tien Tran",
+  "i_am": "I'm",
+  "introduce": {
+    "title": "LET ME INTRODUCE MYSELF",
+    "description_1": "I fell in love with programming and I have at least learnt something",
+    "description_2": "I have experience with programing language such as ",
+    "description_3": "Whenever possible, I love developing products with ",
+    "language_fe": "Javascript",
+    "language_be": "React.js, Vue.js, Node.js"
+  },
+  "contact": {
+    "title_1": "Find me on",
+    "title_2": "Feel free to ",
+    "title_3": "connect",
+    "title_4": " with me"
+  },
+  "developed_by": "Developed by",
+  "about_me": "About Me",
+  "country": "Viet Nam",
+  "description_about_me_1_html": "Hello Everyone, I'm <strong>{{name}}</strong> from <strong>{{country}}</strong> . \n I'm a Frontend Developer. \n",
+  "description_about_me_2_html": "I want to learn and improve my programming knowledge to develop professional skills in web programming, make the company's products perfect and develop in the technology market, enhance my ability to work. group and develop communication skills",
+  "description_about_me_3": "Apart from coding, some other activities that I love to do ",
+  "tool": "Tools",
+  "tool_usage_html": "<strong>{{tool}}</strong> I use",
+  "skillset": "Skillset",
+  "professional_html": "Professional <strong>{{skillset}}</strong>",
+  "play_game": "Playing Games",
+  "singing": "Singing",
+  "learn_about_history": "Learning about history",
+  "quote_about_me": "Attitude is everything",
+  "quote_author_about_me": "Jeff Keller",
+  "download_cv": "Download CV",
+  "project_title_html": "My Recent <strong> Works </strong>",
+  "project_subtitle": "Here are a few projects I've worked on recently.",
+  "technologies": "Technologies",
+  "responsibility": "Responsibility",
+  "foxcale_title": "Foxcale Inspector",
+  "foxcale_des": "By visualisation data, Foxcope-inspector can quickly and efficiently find evidence data from vast documents",
+  "chat_management_title": "LINE Chat Management ",
+  "chat_management_des": "Manage LINE's account for admin",
+  "awoo_title": "Admin Page For Awoo app",
+  "awoo_des": "Admin page for Awoo app - a pet social network"
+}

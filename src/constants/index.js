@@ -33,4 +33,4 @@ export const RESPONSIBILITY = {
 
 
 export const RESUME_LINK =
-  "https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Soumyajit_Behera-BIT_MESRA.pdf";
+  "https://raw.githubusercontent.com/TienHT/portfolio/e516d3d4d9f991a23d8cd4593fdb64c2069f9cf3/src/Assets/Tran-Huu-Tien-Developer.pdf";
